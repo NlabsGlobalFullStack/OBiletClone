@@ -1,0 +1,13 @@
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Domain\bin\Debug\net8.0\OBiletClone.Server.Domain.deps.json
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Domain\bin\Debug\net8.0\OBiletClone.Server.Domain.dll
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Domain\bin\Debug\net8.0\OBiletClone.Server.Domain.pdb
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Domain\obj\Debug\net8.0\OBiletClone.Server.Domain.csproj.AssemblyReference.cache
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Domain\obj\Debug\net8.0\OBiletClone.Server.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Domain\obj\Debug\net8.0\OBiletClone.Server.Domain.AssemblyInfoInputs.cache
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Domain\obj\Debug\net8.0\OBiletClone.Server.Domain.AssemblyInfo.cs
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Domain\obj\Debug\net8.0\OBiletClone.Server.Domain.csproj.CoreCompileInputs.cache
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Domain\obj\Debug\net8.0\OBiletClone.Server.Domain.sourcelink.json
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Domain\obj\Debug\net8.0\OBiletClone.Server.Domain.dll
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Domain\obj\Debug\net8.0\refint\OBiletClone.Server.Domain.dll
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Domain\obj\Debug\net8.0\OBiletClone.Server.Domain.pdb
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Domain\obj\Debug\net8.0\ref\OBiletClone.Server.Domain.dll

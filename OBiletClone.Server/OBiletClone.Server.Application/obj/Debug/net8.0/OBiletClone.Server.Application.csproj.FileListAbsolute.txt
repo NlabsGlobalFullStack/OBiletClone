@@ -1,0 +1,16 @@
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Application\bin\Debug\net8.0\OBiletClone.Server.Application.deps.json
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Application\bin\Debug\net8.0\OBiletClone.Server.Application.dll
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Application\bin\Debug\net8.0\OBiletClone.Server.Application.pdb
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Application\bin\Debug\net8.0\OBiletClone.Server.Domain.dll
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Application\bin\Debug\net8.0\OBiletClone.Server.Domain.pdb
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Application\obj\Debug\net8.0\OBiletClone.Server.Application.csproj.AssemblyReference.cache
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Application\obj\Debug\net8.0\OBiletClone.Server.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Application\obj\Debug\net8.0\OBiletClone.Server.Application.AssemblyInfoInputs.cache
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Application\obj\Debug\net8.0\OBiletClone.Server.Application.AssemblyInfo.cs
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Application\obj\Debug\net8.0\OBiletClone.Server.Application.csproj.CoreCompileInputs.cache
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Application\obj\Debug\net8.0\OBiletClone.Server.Application.sourcelink.json
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Application\obj\Debug\net8.0\OBiletCl.6AB982FE.Up2Date
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Application\obj\Debug\net8.0\OBiletClone.Server.Application.dll
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Application\obj\Debug\net8.0\refint\OBiletClone.Server.Application.dll
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Application\obj\Debug\net8.0\OBiletClone.Server.Application.pdb
+D:\Projects\FullStack\OBiletClone\OBiletClone.Server\OBiletClone.Server.Application\obj\Debug\net8.0\ref\OBiletClone.Server.Application.dll

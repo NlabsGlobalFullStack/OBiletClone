@@ -1,0 +1,366 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\Projects\\FullStack\\OBiletClone\\OBiletClone.Server\\OBiletClone.Server.WebAPI\\OBiletClone.Server.WebAPI.csproj": {}
+  },
+  "projects": {
+    "D:\\Projects\\FullStack\\OBiletClone\\OBiletClone.Server\\OBiletClone.Server.Application\\OBiletClone.Server.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\FullStack\\OBiletClone\\OBiletClone.Server\\OBiletClone.Server.Application\\OBiletClone.Server.Application.csproj",
+        "projectName": "OBiletClone.Server.Application",
+        "projectPath": "D:\\Projects\\FullStack\\OBiletClone\\OBiletClone.Server\\OBiletClone.Server.Application\\OBiletClone.Server.Application.csproj",
+        "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\FullStack\\OBiletClone\\OBiletClone.Server\\OBiletClone.Server.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Projects\\FullStack\\OBiletClone\\OBiletClone.Server\\OBiletClone.Server.Domain\\OBiletClone.Server.Domain.csproj": {
+                "projectPath": "D:\\Projects\\FullStack\\OBiletClone\\OBiletClone.Server\\OBiletClone.Server.Domain\\OBiletClone.Server.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            },
+            "FluentValidation.DependencyInjectionExtensions": {
+              "target": "Package",
+              "version": "[11.10.0, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.4.1, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Nlabs.FileService": {
+              "target": "Package",
+              "version": "[8.0.7, )"
+            },
+            "Nlabs.InvoiceNumberGenerator": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Nlabs.Result": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\FullStack\\OBiletClone\\OBiletClone.Server\\OBiletClone.Server.Domain\\OBiletClone.Server.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\FullStack\\OBiletClone\\OBiletClone.Server\\OBiletClone.Server.Domain\\OBiletClone.Server.Domain.csproj",
+        "projectName": "OBiletClone.Server.Domain",
+        "projectPath": "D:\\Projects\\FullStack\\OBiletClone\\OBiletClone.Server\\OBiletClone.Server.Domain\\OBiletClone.Server.Domain.csproj",
+        "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\FullStack\\OBiletClone\\OBiletClone.Server\\OBiletClone.Server.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Ardalis.SmartEnum": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Nlabs.GenericRepository": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\FullStack\\OBiletClone\\OBiletClone.Server\\OBiletClone.Server.Infrastructure\\OBiletClone.Server.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\FullStack\\OBiletClone\\OBiletClone.Server\\OBiletClone.Server.Infrastructure\\OBiletClone.Server.Infrastructure.csproj",
+        "projectName": "OBiletClone.Server.Infrastructure",
+        "projectPath": "D:\\Projects\\FullStack\\OBiletClone\\OBiletClone.Server\\OBiletClone.Server.Infrastructure\\OBiletClone.Server.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\FullStack\\OBiletClone\\OBiletClone.Server\\OBiletClone.Server.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Projects\\FullStack\\OBiletClone\\OBiletClone.Server\\OBiletClone.Server.Domain\\OBiletClone.Server.Domain.csproj": {
+                "projectPath": "D:\\Projects\\FullStack\\OBiletClone\\OBiletClone.Server\\OBiletClone.Server.Domain\\OBiletClone.Server.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Microsoft.Extensions.Diagnostics.HealthChecks.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Scrutor": {
+              "target": "Package",
+              "version": "[4.2.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\Projects\\FullStack\\OBiletClone\\OBiletClone.Server\\OBiletClone.Server.WebAPI\\OBiletClone.Server.WebAPI.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Projects\\FullStack\\OBiletClone\\OBiletClone.Server\\OBiletClone.Server.WebAPI\\OBiletClone.Server.WebAPI.csproj",
+        "projectName": "OBiletClone.Server.WebAPI",
+        "projectPath": "D:\\Projects\\FullStack\\OBiletClone\\OBiletClone.Server\\OBiletClone.Server.WebAPI\\OBiletClone.Server.WebAPI.csproj",
+        "packagesPath": "C:\\Users\\root\\.nuget\\packages\\",
+        "outputPath": "D:\\Projects\\FullStack\\OBiletClone\\OBiletClone.Server\\OBiletClone.Server.WebAPI\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\root\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\Projects\\FullStack\\OBiletClone\\OBiletClone.Server\\OBiletClone.Server.Application\\OBiletClone.Server.Application.csproj": {
+                "projectPath": "D:\\Projects\\FullStack\\OBiletClone\\OBiletClone.Server\\OBiletClone.Server.Application\\OBiletClone.Server.Application.csproj"
+              },
+              "D:\\Projects\\FullStack\\OBiletClone\\OBiletClone.Server\\OBiletClone.Server.Infrastructure\\OBiletClone.Server.Infrastructure.csproj": {
+                "projectPath": "D:\\Projects\\FullStack\\OBiletClone\\OBiletClone.Server\\OBiletClone.Server.Infrastructure\\OBiletClone.Server.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "AspNetCore.HealthChecks.UI.Client": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Microsoft.AspNetCore.OData": {
+              "target": "Package",
+              "version": "[9.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.8, )"
+            },
+            "Nlabs.DefaultCorsPolicy": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.8.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

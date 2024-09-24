@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4vY+d0vp2idk+YsUlb2y2xgWypjdW2tOfcz0SqFqg2g=",
+  "Source": "OBiletClone.Server.WebAPI",
+  "BasePath": "_content/OBiletClone.Server.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

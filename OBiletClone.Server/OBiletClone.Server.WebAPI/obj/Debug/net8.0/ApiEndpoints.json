@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "OBiletClone.Server.WebAPI.Controllers.AuthController",
+    "Method": "Login",
+    "RelativePath": "Auth/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "OBiletClone.Server.Application.Features.Auth.LoginCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
